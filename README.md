@@ -6,7 +6,7 @@ Projeto acadêmico desenvolvido no **Desafio 2 da Residência em Inteligência A
 
 > **Em planejamento.** Este repositório contém a documentação do projeto. A aplicação, os modelos e o ambiente de execução ainda serão implementados.
 
-[Manual de MLOps e arquitetura](<Manual de MLOps e arquitetura — Desafio 2 (direitos trabalhistas).docx>) · [Desafio original](<Challenge 2.docx.pdf>)
+[Manual de MLOps e arquitetura](<docs/Manual de MLOps e arquitetura — Desafio 2 (direitos trabalhistas).docx>) · [Desafio original](<docs/Challenge 2.docx.pdf>)
 
 ## Por que este projeto existe?
 
