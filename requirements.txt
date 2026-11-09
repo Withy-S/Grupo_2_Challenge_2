@@ -24,3 +24,8 @@ tiktoken
 
 # Recuperação vetorial
 sentence-transformers
+
+# Persistência dos embeddings existentes no PostgreSQL
+numpy
+psycopg[binary]
+pgvector

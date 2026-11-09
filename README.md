@@ -203,3 +203,13 @@ A guarda de originais dependerá de escolha explícita do usuário. Sem essa esc
 
 O roteiro segue o manual e depende dos portões de qualidade de cada etapa.
 
+
+
+## RAG legislativo: execução e documentação
+
+- [Instalação e reprodução](docs/execucao_reproducao.md)
+- [Banco PostgreSQL e pgvector](docs/pgvector.md)
+- [Demonstração com uma consulta real](docs/06_demonstracao_rag_trabalhista.md)
+- [Arquitetura e base de conhecimento](docs/semana2_base_conhecimento_e_rag.md)
+
+Os notebooks 06, 07 e 08 utilizam os módulos de `src/rag/` e `src/storage/`. A configuração congelada e os resultados selecionados ficam em `reports/legislacao/`. Consulte as instruções de reprodução antes de executar a avaliação.
